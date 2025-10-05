@@ -10,7 +10,7 @@ Safe File Handling: Prevents overwriting existing files
 
 Customizable: Easy to modify categories and add new file types
 
-Cross-Platform: Works on Windows, macOS, and Linux
+Cross-Platform: Works on Windows, macOS, and Linux.
 
 Linux
 
@@ -40,4 +40,5 @@ Code Files
 
 Others
 Unrecognized file types go to "Other" folder
+
 
